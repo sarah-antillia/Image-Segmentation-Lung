@@ -86,6 +86,7 @@ Image-Segmentation-Lung
   Please download the original image and mask dataset smear2005.zip from the following link<br>
 <pre>
 Chest X-ray Database
+https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels
 </pre>
 The dataset <b>Lung Segmentation</b> has the following folder structure, which contains seven categories.<br>
 <pre>
